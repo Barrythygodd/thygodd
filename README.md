@@ -1,0 +1,2 @@
+# thygodd
+learn python
